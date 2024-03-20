@@ -1,0 +1,19 @@
+{
+    "name": "azad/oop",
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Oop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fufulele",
+            "email": "112864040+Fufulele@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
+
